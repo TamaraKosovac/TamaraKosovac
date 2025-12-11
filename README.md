@@ -1,3 +1,3 @@
 • **Languages:** C, C++, C#, Java, Python, JavaScript, HTML, CSS, PHP  
-• **Frameworks & Libraries:** .NET (WPF), Spring, Angular, Django, React, Laravel, Vue, ASP.NET Core, React Native    
-• **Databases:** MySQL, SQLite, Microsoft SQL Server
+• **Frameworks & Libraries:** .NET (WPF), Spring, Angular, Django, React, Laravel, Vue, ASP.NET Core, React Native, Node.js (Express)   
+• **Databases:** MySQL, SQLite, Microsoft SQL Server, PostgreSQL  
